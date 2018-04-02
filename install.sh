@@ -1,10 +1,10 @@
+#!/bin/bash
 ################################################################
 # File Name: install.sh
 # Author: gaoyu
-# Mail: gaoyu.2017@bytedance.com
+# Mail: mathero@126.com
 # Created Time: Tue 31 Oct 2017 06:20:51 PM CST
 ################################################################
-#!/bin/bash
 
 cd `dirname $0`
 cp ./.tmux.conf ~/ 
